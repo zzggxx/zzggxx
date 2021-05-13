@@ -1,5 +1,5 @@
 - 👋 Hi, I’m will
-- 👀 I’m interested in java,python,c,linux and so on
+- 👀 I’m interested in java,python,c,linux,android and so on
 - 🌱 I’m currently learning python and linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 my email:zhougaoxiongcall@163.com 
